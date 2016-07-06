@@ -1,2 +1,1 @@
-# adminlte-orange-skin
-AdminLTE Orange Skin
+#AdminLTE Skins Addons
